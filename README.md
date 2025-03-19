@@ -1,6 +1,6 @@
-## Horizontal scroll of virtialized
-
 ![](demo.gif)
+
+---
 
 # Swag Web Carousel Clone
 
